@@ -3950,6 +3950,10 @@ body.is-preload #sidebar nav ul li {
   #intro p {
     font-size: 1em;
   }
+
+  .button {
+    font-size: 0.3em;
+  }
 }
 
 @media screen and (max-width: 1280px) {
