@@ -1,1 +1,15 @@
-README COMING SOON.
+# Personal WebSite ver 1.0
+# Purpose:
+
+This is a Project based on my profesional experience developing websites. This is my personal portfolio where ill be showing some projects i have been working and the next ones i'll be working. Idea of this project is that each 6 months i have to be able to create new versions of this website. Is Fully adaptative, use CSS animations with Javascript help.
+
+![demo](https://media.giphy.com/media/yfQ27aikZmVzuBz1Gd/giphy-downsized.gif)
+
+### Technologies used:
+- HTML, CSS, Javascript.
+
+##### Cool Features:
+
+Contact me is conected to a server to make it work with the email feature.
+Scrolling animation.
+Website full responsive design.
