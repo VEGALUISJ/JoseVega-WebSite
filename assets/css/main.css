@@ -1,11 +1,5 @@
 @import url(fontawesome-all.min.css);
 
-/*
-	Hyperspace by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
-
 html,
 body,
 div,
@@ -2093,7 +2087,7 @@ button:hover:active:after,
 
 .features section {
   padding: 3.5em 3em 1em 7em;
-  width: 50%;
+  width: 25%;
   border-top: solid 1px rgba(255, 255, 255, 0.15);
   position: relative;
 }
@@ -3313,15 +3307,15 @@ table.alt tfoot {
 }
 
 .wrapper.style1 {
-  background-color: #5e42a6;
+  background-color: cadetblue;
 }
 
 .wrapper.style1-alt {
-  background-color: #493382;
+  background-color: black;
 }
 
 .wrapper.style2 {
-  background-color: #5052b5;
+  background-color: darkslategray;
 }
 
 .wrapper.style2-alt {
@@ -3329,7 +3323,7 @@ table.alt tfoot {
 }
 
 .wrapper.style3 {
-  background-color: #b74e91;
+  background-color: slategray;
 }
 
 .wrapper.style3-alt {
@@ -3583,7 +3577,7 @@ body.is-preload .wrapper.fade > .inner {
 
 #sidebar {
   padding: 2.5em 2.5em 0.5em 2.5em;
-  background: #312450;
+  background: darkslategray;
   cursor: default;
   height: 100vh;
   left: 0;
