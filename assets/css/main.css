@@ -2390,6 +2390,7 @@ label {
 input[type="text"],
 input[type="password"],
 input[type="email"],
+input[type="subject"],
 input[type="tel"],
 select,
 textarea {
@@ -2412,6 +2413,7 @@ textarea {
 input[type="text"]:invalid,
 input[type="password"]:invalid,
 input[type="email"]:invalid,
+input[type="subject"],
 input[type="tel"]:invalid,
 select:invalid,
 textarea:invalid {
@@ -2454,6 +2456,7 @@ select::-ms-expand {
 input[type="text"],
 input[type="password"],
 input[type="email"],
+input[type="subject"],
 select {
   height: 2.75em;
 }
