@@ -4,7 +4,7 @@ const app = express();
 const PORT = process.env.PORT || 5000;
 
 //Midleware
-app.use(express.static('public'));
+app.use(express.static('docs'));
 
 app.get('/', (req, res)=>{
     res.send('hello!!')
