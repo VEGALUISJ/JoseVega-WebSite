@@ -1,0 +1,28 @@
+{
+  "name": "josevega-hyperspace",
+  "version": "1.0.0",
+  "description": "This is a Project based on my profesional experience developing websites. This is my personal portfolio where ill be showing some projects i have been working and the next ones i'll be working. Idea of this project is that each 6 months i have to be able to create new versions of this website. Is Fully adaptative, use CSS animations with Javascript help and some PHP to make work the contact form.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VEGALUISJ/Personal-WebSite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VEGALUISJ/Personal-WebSite/issues"
+  },
+  "homepage": "https://github.com/VEGALUISJ/Personal-WebSite#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemailer": "^6.4.17"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
