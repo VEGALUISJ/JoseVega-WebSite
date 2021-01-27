@@ -152,28 +152,26 @@
 							</p>
 							<div class="split style1">
 								<section>
-									<form method="post" action="#">
+									<form class="contact-form">
 										<div class="fields">
 											<div class="field half">
 												<label for="name">Name</label>
-												<input type="text" name="name" id="name" placeholder="Full Name"/>
+												<input type="text" name="name" id="name" placeholder="Full Name" required/>
 											</div>
 											<div class="field half">
 												<label for="email">Email</label>
-												<input type="text" name="email" id="email" placeholder="Your e-mail"/>
+												<input type="email" name="email" id="email" placeholder="Your e-mail" required/>
 											</div>
 											<div class="field half">
 												<label for="subject">Subject</label>
-												<input type="subject" name="subject" id="subject" placeholder="Subject"/>
+												<input type="subject" name="subject" id="subject" placeholder="Subject" required/>
 											</div>
 											<div class="field">
 												<label for="message">Message</label>
-												<textarea name="message" id="message" rows="5" placeholder="Message"></textarea>
+												<textarea name="message" id="message" rows="5" placeholder="Message" required></textarea>
 											</div>
 										</div>
-										<ul class="actions">
-											<li><a type="submit" name="submit" class="button submit" value="SEND MESSAGE">Send me a Message</a></li>
-										</ul>
+											<input type="submit" class="button" value="Send me a Message"/>
 									</form>
 								</section>
 								<section>
@@ -220,6 +218,8 @@
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="assets/js/app.js"></script>
+			<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
 	</body>
 </html>
