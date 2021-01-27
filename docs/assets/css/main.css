@@ -181,7 +181,7 @@ html {
 }
 
 body {
-  background: #312450;
+  background: black;
 }
 
 body.is-preload *,
@@ -3323,7 +3323,7 @@ table.alt tfoot {
 }
 
 .wrapper.style2-alt {
-  background-color: #3e4094;
+  background-color: black;
 }
 
 .wrapper.style3 {
@@ -3331,7 +3331,7 @@ table.alt tfoot {
 }
 
 .wrapper.style3-alt {
-  background-color: #953d75;
+  background-color: black;
 }
 
 .wrapper.fullscreen {
@@ -3437,7 +3437,7 @@ body.is-preload .wrapper.fade > .inner {
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
-  background-color: #5e42a6;
+  background-color: black;
   cursor: default;
   padding: 1.75em 2em;
 }
