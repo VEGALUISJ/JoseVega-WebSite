@@ -20,7 +20,7 @@ contactForm.addEventListener('submit', (e)=>{
         xhr.onload = function() {
             console.log(xhr.responseText);
             if(xhr.respondText = 'success'){
-                swal("Thanks for Contacting me!", "Ill be reaching you out soon!", "success")
+                swal("Thanks for Contacting me!", "Ill be reaching out you soon!", "success")
                 names.value = '';
                 email.value = '';
                 subject.value = '';
