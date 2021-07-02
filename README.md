@@ -6,7 +6,7 @@ This is a Project based on my profesional experience developing websites. This i
 ![demo](https://media.giphy.com/media/W17kKgzJBBJuf1ohSC/giphy.gif)
 
 ### Technologies used:
-- HTML, CSS, Javascript, Nodejs.
+- HTML, CSS, Javascript, Nodejs
 
 ##### Cool Features:
 
